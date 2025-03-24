@@ -1,0 +1,29 @@
+.header {
+    background: #000;
+}
+
+.header__inner {
+        margin: 0 auto;
+        max-width: 1230px;
+        padding: 20px 15px;
+}
+
+.header-utilities {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header__logo {
+    color: #fff;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 24px;
+}
+
+.header-nav__link{
+    color: #fff;
+    text-decoration: none;
+}
+
+
