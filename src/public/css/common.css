@@ -14,3 +14,14 @@
     text-decoration: none;
     font-size: 24px;
 }
+
+.header__utilities {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-nav__link {
+    color: #fff;
+    text-decoration: none;
+}
